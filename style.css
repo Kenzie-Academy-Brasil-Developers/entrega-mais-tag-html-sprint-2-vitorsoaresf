@@ -1,0 +1,34 @@
+p{
+    margin: 0 100px 5px 100px ;
+    color: #242424;
+}
+
+a{
+    margin: 0 100px 5px 100px ;
+}
+
+h2{
+    margin-left: 20px;
+}
+
+header{
+    margin-top: -20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    margin-top: 0;
+    display: contents ;
+}
+
+ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #242424;
+}
+
+details{
+    text-align: end;
+    margin: 0 20px 0 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #242424;
+}
